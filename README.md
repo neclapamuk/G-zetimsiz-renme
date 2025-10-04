@@ -1,1 +1,1 @@
-# G-zetimsiz-renme
+# GozetimliOgrenme
